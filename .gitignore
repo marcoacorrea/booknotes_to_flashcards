@@ -140,3 +140,5 @@ cython_debug/
 .idea/
 
 test.config
+words.txt
+*.exe
